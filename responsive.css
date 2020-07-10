@@ -1,0 +1,24 @@
+@media (max-width:700px) {
+  .blog-area img {
+    width:150px;
+    height:100px;
+    }
+    .blog-area  h4{
+      font-family: Poppins;
+      font-style: normal;
+      font-weight:normal;
+      font-size: 16px;
+      line-height: 20px;
+      color: #000000;
+    }
+    .blog-area p{
+     
+      font-size: 12px;
+    }
+      
+      .element2{
+        margin-left:10px;
+      }
+    
+}
+

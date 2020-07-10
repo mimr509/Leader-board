@@ -1,0 +1,92 @@
+.body{
+  margin:0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.nav-area img{
+  width:40px;
+}
+.nav-area .img-area{
+  margin-right: 10px;
+}
+.bg-light {
+  background-color: #562EFF !important;
+}
+
+.navbar-brand {
+  font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+color: #FFFFFF;
+}
+.navbar-light .navbar-brand {
+  color: #FFFFFF;
+}
+.player-area {
+  width:850px;
+  margin:auto;
+}
+.player img{
+  width:60px;
+  margin-right: 20px;
+}
+h2{
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+
+/* identical to box height */
+
+color: #562EFF;
+margin: 40px 0;
+
+
+}
+/* end player-area design */
+
+.blog-area {
+  width:850px;
+  margin:auto;
+}
+.blog-area img {
+width:200px;
+height:130px;
+}
+.blog-area  h4{
+  font-family: Poppins;
+  font-style: normal;
+  font-weight:normal;
+  font-size: 20px;
+  line-height: 34px;
+  color: #000000;
+  
+  
+}
+span{
+  color:blue;
+  font-size: 16px;
+ 
+}
+.blog-area p{
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #9F9F9F;
+  
+}
+.element2{
+  margin-left:20px;
+}
+.box{
+  padding-bottom:40px;
+}
+/* end blog-area */
+
+
+
+  
