@@ -1,6 +1,7 @@
 .body{
   margin:0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #9F9F9F;
 }
 .nav-area img{
   width:40px;
@@ -24,8 +25,9 @@ color: #FFFFFF;
   color: #FFFFFF;
 }
 .player-area {
-  width:850px;
+  width:870px;
   margin:auto;
+  background-color: #E5E5E5;
 }
 .player img{
   width:60px;
@@ -37,19 +39,22 @@ font-style: normal;
 font-weight: 500;
 font-size: 24px;
 line-height: 36px;
-
-/* identical to box height */
-
 color: #562EFF;
 margin: 40px 0;
-
-
 }
+
+ 
+ 
+
 /* end player-area design */
 
 .blog-area {
-  width:850px;
+ 
+  width:870px;
   margin:auto;
+  margin-bottom:40px;
+  background-color: #E5E5E5;
+  padding:40px 10px;
 }
 .blog-area img {
 width:200px;
@@ -87,6 +92,79 @@ span{
 }
 /* end blog-area */
 
+.course-area{
+  background-color: ;
+  width:870px;
+  margin:auto;
+  background-color: #E5E5E5;
+  padding:40px 10px;
+}
+.card {
+  border-radius: 15px;
+}
+
+.course-area h4{
+  font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 20.0336px;
+
+color: #1E1E1E;
 
 
+}
+.course-area p{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14.6913px;
+line-height: 17px;
+color: #ED6B4F;
+}
+.checked {
+  color: orange;
+  
+}
+
+
+.star span{
+  font-size: 12px;
+}
+
+.row{
+  display: flex;
+  flex-direction: row;
+}
+.star{
+  font-size: 14.6913px;
+  line-height: 20px;
+}
+.num span{
+
+  font-size: 14.6913px;
+   line-height: 20px; 
+   color:grey;
+}
+.time{
+  border: 1px solid  #FF4A60 ;
+  padding:3px 8px;
+  border-radius: 33px;
+  font-size: 14.6913px;
+   line-height: 20px; 
+}
+.time span{
+  
+font-style: normal;
+font-weight: 600;
+font-size: 14.6913px;
+line-height: 20px;
+color: #FF4A60;
+
+}
+.card-footer{
+  border-top:none;
+}
+hr{
+  border-top:1px solid floralwhite;
+}
   
