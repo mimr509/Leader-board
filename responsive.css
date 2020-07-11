@@ -1,49 +1,43 @@
-@media (max-width:750px) {
+@media (max-width: 750px) {
   .blog-area img {
-    width:150px;
-    height:100px;
-    }
-    .blog-area  h4{
-      font-family: Poppins;
-      font-style: normal;
-      font-weight:normal;
-      font-size: 16px;
-      line-height: 20px;
-      color: #000000;
-    }
-    .course-area{
-      padding:0px 0px;
-    }
-    .blog-area p{
-      font-size: 12px;
-    }
-      
-      .element2{
-        margin-left:10px;
-      }
-      .course-area{
-        width:500px;
-      }
-      .blog-area{
-        width:500px;
-      }
-      .player-area{
-        width:500px;
-      }
-      .course-area h5{
-        font-size: 16px;
-      }
-    }
-    
+    width: 150px;
+    height: 100px;
+  }
+  .blog-area h4 {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+  }
+  .course-area {
+    padding: 0px 0px;
+  }
+  .blog-area p {
+    font-size: 12px;
+  }
 
-    @media(max-width:580px){
-    
-      .course-area{
-        width:400px;
-        font-size: 10px;
-      }
-      
-      
-    }
-      
+  .element2 {
+    margin-left: 10px;
+  }
+  .course-area {
+    width: 500px;
+  }
+  .blog-area {
+    width: 500px;
+  }
+  .player-area {
+    width: 500px;
+  }
+  .course-area h5 {
+    font-size: 16px;
+  }
+}
 
+@media (max-width: 570px) {
+  .course-area {
+    width: 300px;
+    font-size: 10px;
+  }
+}
