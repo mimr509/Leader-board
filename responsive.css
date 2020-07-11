@@ -1,4 +1,4 @@
-@media (max-width:700px) {
+@media (max-width:750px) {
   .blog-area img {
     width:150px;
     height:100px;
@@ -15,18 +15,35 @@
       padding:0px 0px;
     }
     .blog-area p{
-     
       font-size: 12px;
     }
       
       .element2{
         margin-left:10px;
       }
-      .card{
-        width:70%;
+      .course-area{
+        width:500px;
       }
-     
+      .blog-area{
+        width:500px;
+      }
+      .player-area{
+        width:500px;
+      }
+      .course-area h5{
+        font-size: 16px;
+      }
+    }
     
-}
 
+    @media(max-width:580px){
+    
+      .course-area{
+        width:400px;
+        font-size: 10px;
+      }
+      
+      
+    }
+      
 
