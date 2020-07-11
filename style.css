@@ -3,6 +3,7 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-color: #9F9F9F;
 }
+
 .nav-area img{
   width:40px;
 }
@@ -93,22 +94,20 @@ span{
 /* end blog-area */
 
 .course-area{
-  
   width:870px;
   margin:auto;
   background-color: #E5E5E5;
-  padding:40px 10px;
+  padding:10px 10px;
 }
 .card {
   border-radius: 15px;
 }
 
 .course-area h4{
-  font-family: Roboto;
+font-family: Roboto;
 font-style: normal;
 font-weight: 500;
 font-size: 20.0336px;
-
 color: #1E1E1E;
 
 
@@ -138,11 +137,12 @@ color: #ED6B4F;
 .star{
   font-size: 14.6913px;
   line-height: 20px;
+  
 }
 .num span{
 
   font-size: 14.6913px;
-   line-height: 20px; 
+  line-height: 20px; 
    color:grey;
 }
 .time{

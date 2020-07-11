@@ -11,6 +11,9 @@
       line-height: 20px;
       color: #000000;
     }
+    .course-area{
+      padding:0px 0px;
+    }
     .blog-area p{
      
       font-size: 12px;
@@ -22,7 +25,8 @@
       .card{
         width:70%;
       }
-      
+     
     
 }
+
 
