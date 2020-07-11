@@ -37,7 +37,19 @@
 
 @media (max-width: 570px) {
   .course-area {
-    width: 300px;
+    width: 350px;
     font-size: 10px;
   }
+  .blog-area{
+    width: 350px;
+
+  }
+  .blog-area h4{
+    font-size: 16px;
+
+  }
+  .blog-area p{
+    font-size: 14px;
+  }
+
 }
